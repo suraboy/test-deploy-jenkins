@@ -1,5 +1,6 @@
 # Docker-compose Jenkin
 This project use in learning Jenkin , If any mistake, apologize.
+ref. https://github.com/bitnami/bitnami-docker-jenkins
 
 Get Started
 -----------
